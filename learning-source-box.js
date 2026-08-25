@@ -2,7 +2,7 @@
   'use strict';
 
 const WEB_APP_URL =
-  'https://script.google.com/macros/s/AKfycbxrisIGnewRP8cqrj_-Imv3KtkrXFu-cdUPHN2bqoYVpyJZaV1_K3U6d9o15uc6NBcJlw/exec';
+  'https://script.google.com/macros/s/AKfycbxvqWwNRKu5GpoVRyDZGdwXRy6ubEgPAg2-stv-G-arF4HRoqkAfP21oTl124ne6CvZ/exec';
 
   const INITIAL_ITEMS = 8;
   const $ = id => document.getElementById(id);
