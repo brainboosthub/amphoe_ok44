@@ -2,7 +2,7 @@
 (() => {
   'use strict';
 
-  const API_URL = 'https://script.google.com/macros/s/AKfycbwNWHswYVm6hcJran7djOygoEckCC101qHU9dbSsHCmQWA8r2Sfsez3ZYgbz5BufoQnsw/exec';
+  const API_URL = 'https://script.google.com/macros/s/AKfycbxvqWwNRKu5GpoVRyDZGdwXRy6ubEgPAg2-stv-G-arF4HRoqkAfP21oTl124ne6CvZ/exec';
   const TEACHER_URL = API_URL + '?page=teacher';
   let student = JSON.parse(localStorage.getItem('LEARN_STUDENT') || 'null');
   let editProfileRemovePhoto = false;
